@@ -1,0 +1,66 @@
+body
+    {
+        
+	background-color: skyblue;
+    }
+
+h1
+    {
+        background-color: Cornsilk;
+	font-face: rockwell extra bold; 
+	font-size: 100px; 
+	color: darkblue;
+	border: solid;
+	border-color: #3C1874;
+	border-radius: 50px;
+    }
+
+h2
+	{
+	font-family:'Rozha One', serif; 
+	font-size: 50px; 
+	color: white;
+	}
+
+
+
+
+p
+    {
+	background-color: indianred;
+	font-family: 'Damion', cursive;	
+	color: cornsilk;
+	font-size: 30px;
+	padding: 10px;   
+	border: solid;
+	border-color: white;
+	border-radius: 50px;         
+    }
+
+li
+    {
+	background-color: cornsilk;
+	font-family: verdana;	
+	color: darkblue;
+	font-size: 25px;
+	border: 5px solid white;
+	padding: 10px;
+	margin: 25px;              
+    }
+
+a:link, a:visited
+	{
+	background-color: black;
+	color: gold;
+	text-allign: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px;
+	padding: 15px;           
+   	}
+
+a:hover, a:active
+	{
+	background-color: white;
+	color: black;          
+   	}
